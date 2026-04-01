@@ -5,6 +5,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   text-align: center;
+  width: 100%;
 }
 
 #joke-text{
@@ -24,13 +25,4 @@ button {
   border-radius: 4px;
   width: 150px;
   height: 30px;
-}
-
-.follow {
-  border-top: 1px solid #000;
-}
-
-a {
-  text-decoration: none;
-  color: #4285f4;
 }
